@@ -1,0 +1,155 @@
+\NeedsTeXFormat{LaTeX2e}
+
+\ProvidesPackage{thesis-utils}[2014]
+
+\RequirePackage{listings}
+\RequirePackage[numbered]{matlab-prettifier}
+\RequirePackage[listings]{tcolorbox}
+
+
+\definecolor{matlabbg}{RGB}{252,252,220}
+\definecolor{matlabborder}{RGB}{239,239,71}
+
+% % % % % % % %  Matlab Environment
+\definecolor{matlabbg}{RGB}{252,252,220}
+\definecolor{matlabborder}{RGB}{239,239,71}
+
+\lstnewenvironment{matlab}{%
+\vskip2mm
+\linespread{1.2}
+\latin
+\fontspec{Bitstream Vera Sans Mono}
+\lstset{style=Matlab-editor}
+\lstset{backgroundcolor=\color{matlabbg}}
+\lstset{rulecolor=\color{matlabborder}}
+\lstset{basicstyle=}
+\lstset{frame=single}
+\lstset{frameround=tttt}
+\lstset{aboveskip=3mm}
+\lstset{belowskip=-2mm}
+\lstset{numbers=left,tabsize=4}
+}{\endlatin}
+
+\definecolor{pblue}{rgb}{0.13,0.13,1}
+\definecolor{pgreen}{rgb}{0,0.5,0}
+\definecolor{pred}{rgb}{0.9,0,0}
+\definecolor{pgrey}{rgb}{0.46,0.45,0.48}
+
+\lstnewenvironment{java}{%
+\vskip2mm
+\latin
+\linespread{1.2}
+\fontspec{Bitstream Vera Sans Mono}
+\lstset{style=Matlab-editor}
+\lstset{language=Java}
+\lstset{backgroundcolor=\color{matlabbg}}
+\lstset{rulecolor=\color{matlabborder}}
+\lstset{basicstyle=}
+\lstset{frame=single}
+\lstset{frameround=tttt}
+\lstset{numbers=left,
+tabsize=4}
+\lstset{aboveskip=3mm}
+\lstset{belowskip=-2mm}
+}{\endlatin}
+
+\newenvironment{code}{\begin{figure}[h]\linespread{1}}{\end{figure}}
+
+
+% % % % % % % %  Problem Environment
+%\tcbuselibrary{theorems}
+
+%\definecolor{bg}{RGB}{0,128,255}
+%\definecolor{problembg}{RGB}{140,198,255}
+
+%\newcounter{problembox}{}
+%\tcbmaketheorem{ProblemBox}{سوال}{colback=problembg,colframe=bg!50!black,fonttitle=\bfseries}{problembox}{th}
+
+\usepackage{amsmath, amsthm, amssymb}
+\usepackage{xcolor}
+%\usepackage{thmbox}
+%\usepackage{boiboites}
+\usepackage{enumitem}
+\usepackage{xkeyval}
+\usepackage{bbm}
+\usepackage{comment}
+\usepackage{xifthen}
+\usepackage{tikz}
+
+
+
+% ==================================================================
+% the boiboites package inline:
+% this package is used in order to have problem statements boxed
+% ==================================================================
+\makeatletter
+% \RequirePackage{xkeyval}
+% \RequirePackage{tikz}
+% \RequirePackage{amssymb}
+
+\define@key{boxedtheorem}{titlecolor}{\def\titlecolor{#1}}
+\define@key{boxedtheorem}{titlebackground}{\def\titlebackground{#1}}
+\define@key{boxedtheorem}{background}{\def\background{#1}}
+\define@key{boxedtheorem}{titleboxcolor}{\def\titleboxcolor{#1}}
+\define@key{boxedtheorem}{boxcolor}{\def\boxcolor{#1}}
+\define@key{boxedtheorem}{thcounter}{\def\thcounter{#1}}
+\define@key{boxedtheorem}{size}{\def\size{#1}}
+\presetkeys{boxedtheorem}{titlecolor = black, titlebackground = white, 
+background = white,%
+                         titleboxcolor = black, boxcolor = black, thcounter=, 
+size = .9\textwidth}{}
+
+\newcommand{\couleurs}[1][]{%
+    \setkeys{boxedtheorem}{#1}
+    \tikzstyle{fancytitle} =[draw=\titleboxcolor, rounded corners, 
+fill=\titlebackground,
+                            text= \titlecolor]
+    \tikzstyle{mybox} = [draw=\boxcolor, fill=\background, very thick,
+                        rectangle, rounded corners, inner sep=10pt, inner 
+ysep=20pt]
+}
+
+
+%Commande générique pour faire un joli encadré
+\newsavebox{\boiboite}
+\newcommand{\titre}{Titre}
+\newenvironment{boite}[2][]%
+    {%
+    \renewcommand{\titre}{#2}
+    \couleurs[#1]
+    \begin{lrbox}{\boiboite}%
+     \begin{minipage}[!h]{\size}
+    }%
+    {%
+     \end{minipage}
+    \end{lrbox}
+    \begin{center}
+    \begin{tikzpicture}
+    \node [mybox] (box){\usebox{\boiboite}};
+    \node[fancytitle, left=10pt] at (box.north east) {\rl{\titre}};
+    \end{tikzpicture}
+    \end{center}
+    }
+
+
+
+
+\newcommand{\newboxedtheorem}[4][]{%
+    \couleurs[#1]
+    \@ifnotempty{#4}{%
+      \@ifundefined{the#4}{\@ifundefined{\thcounter}{\newcounter{#4}}{%
+      \newcounter{#4}[\thcounter ] } } { }%
+    }
+    \newenvironment{#2}[1][]{%
+    \@ifnotempty{#4}{\refstepcounter{#4}}
+    \begin{boite}[#1]{\textbf{#3\@ifnotempty{#4}{ \csname 
+the#4\endcsname}}\@ifnotempty{##1}{
+    (##1)}\textbf{.}}
+    }%
+    {%
+    \end{boite}
+    }
+}
+\makeatother
+% ==================================================================
+

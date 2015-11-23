@@ -1,0 +1,50 @@
+
+\documentclass[12pt,oneside]{book}
+
+\usepackage{caption}
+\input{preamble}
+
+\includeonly{
+	blank-page,
+	logo-pe,
+	thanks,
+	abstract-pe,
+	ch1-preliminaries,
+	ch2-background,
+	ch3-focused,
+	ch4-results,
+	appendix,
+	abstract-en,
+	logo-en
+}
+
+\title{پیاده‌سازی روش‌های افزایش وضوح تصاویر با از بین بردن هاله‌های مصنوعی }
+\author{منا هادی بر حق طلب}
+\captionsetup[lstlisting]{font={small,tt}}
+
+\begin{document}
+\include{blank-page}
+\include{logo-pe}
+\include{thanks}
+
+\include{abstract-pe}
+
+\tableofcontents
+\listoffigures
+
+%==========================CHAPTERS=======================
+\include{ch1-preliminaries}
+\include{ch2-background}
+\include{ch3-focused}
+\include{ch4-results}
+%=========================================================
+\include{appendix}
+
+\clearpage
+\bibliographystyle{unsrt}
+\bibliography{references}
+
+\include{abstract-en}
+\include{logo-en}
+\end{document}
+

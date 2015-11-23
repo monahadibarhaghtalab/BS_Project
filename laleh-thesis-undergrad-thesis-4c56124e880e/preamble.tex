@@ -1,0 +1,64 @@
+%----------------------------------------------------------------
+\usepackage{amsmath,amsthm,amssymb,amsfonts,multicol}
+\usepackage{makeidx}
+\usepackage{graphicx}
+\usepackage{xcolor}
+\usepackage{float}
+\usepackage{booktabs}
+\usepackage[a4paper,vmargin=3.5cm,left=3cm,right=4cm]{geometry}
+\usepackage[colorlinks=true,
+	linkcolor=blue!30!black]
+	{hyperref}
+\usepackage{glossaries}
+\usepackage{thesis-utils}
+%----------------------------------------------------------------
+
+%----------------------------------------------------------------
+\usepackage{xepersian}
+\settextfont[Scale=1.1]{XB Roya}
+\setdigitfont[Scale=1]{XB Roya}
+%\setlatintextfont[Scale=1]{Tahoma}
+%\defpersianfont\Nastaliq[Scale=1.5]{IranNastaliq}
+%\defpersianfont\Titre[Scale=1]{XB Titre}
+\def\d{\displaystyle}
+\def\term{\mathrm{term}}
+\allowdisplaybreaks 
+%=================================================
+\theoremstyle{plain} 
+\newtheorem{theorem}{قضیه}[chapter]
+\newtheorem{lemma}{لم}[chapter]
+\newtheorem{proposition}{گزاره}[chapter]
+\newtheorem{corollary}{نتیجه}[chapter]
+\newtheorem*{conjecture}{حدس}
+\theoremstyle{definition}
+\newtheorem{definition}{تعریف}[chapter]
+\newtheorem{example}{مثال}[chapter]
+\newtheorem{prob}{مساله}[chapter]
+\theoremstyle{remark} 
+\newtheorem{remark}{ملاحظه}[chapter]
+%==================================================
+\setcounter{secnumdepth}{3}
+%\setcounter{chapter}{4}
+\renewcommand{\bibname}{مراجع}
+\oddsidemargin =0cm 
+\evensidemargin =0cm
+\textheight =21cm
+\textwidth= 15.3cm
+\headsep= 1.2cm
+\topmargin  =0cm
+\usepackage{perpage}
+%\setcounter{chapter}{3}
+\MakePerPage{footnote}
+
+
+% USEFUL COMMANDS
+\newcommand{\blankpage}{\thispagestyle{empty}
+\begin{center}%
+\textit{این صفحه تعمداً خالی گذاشته شده است}%
+\end{center}
+\clearpage
+}
+
+\baselineskip = 1.15cm
+\renewcommand{\baselinestretch}{2.3}
+

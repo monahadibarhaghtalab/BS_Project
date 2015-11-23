@@ -1,0 +1,76 @@
+<!1,2015112210:17:08>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+<html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body>
+<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\فصل{مقدمات}‎</p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
+<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">برای به دست آوردن نتیجه مطلوب ‎‎و راحتی نمونه برداری  از یک توزیع خاص ‎‎‎‎$‎‎D_{k, ‎\sigma ‎_{2}}‎$‎‎ استفاده می کنیم. توزیع $‎‎D_{k, ‎\sigma ‎_{2}}‎$ به توزیع نهایی ‎‎$‎D_‎{k‎\sigma ‎_{2}} ‎‎$‎  نسبت به توزیع یکنواخت‏ - که باعث رد شدن نمونه‌های زیادی می شد - نزدیک تر است. </p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
+<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">توزیع گسسته دودویی گوسی :</p>
+<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">توزیع گسسته دودویی گوسی ‎‎$‎D_{‎\sigma ‎_{2}} ‎‎$‎ را داریم که انحراف معیار آن برابر ‎‎$‎‎\sigma ‎^{2} ‎_{2}‎$‎ و ‎چگالی‎ احتمال آن برابر است با :</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">  \begin{equation}‎</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎‎\rho ‎_{‎\sigma ‎_{2}} ‎(x) =‎ e‎ ‎^{-x^{2}/(2‎\sigma ‎^{2} ‎_{2}) =‎ ‎2^{-x^{2}}     ‎‎ ‎for ‎x ‎\subset ‎‎\mathbb{Z}‎‎</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\end{equation}</p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
+<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">دامنه‌ی دینامیکی\پانوشت{\متن‌لاتین‎{dynamic range}}‎</p>
+<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">عکس عبارت است از تفاوت مقدار روشنایی بین تاریک‌ترین نقاط و روشن‌ترین نواحی عکس که دارای جزئیات قابل تشخیص باشند. هرچقدر تفاوت این دو مقدار بیشتر باشد، دامنه‌ی دینامیکی عکس بیشتر است. عکسهای</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\lr{HDR}\footnote{\lr{High Dynamics Range}}‎</p>
+<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">   عکس‌هایی هستند که از دامنه‌ی دینامیکی بالایی برخوردار هستند، به طوری که هر کانال رنگی آن‌ها می تواند با بیش از ‎8‎ بیت نمایش داده می‌شود. </p>
+<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">از طرفی صفحات نمایش عادی قادر به نمایش تمام این دامنه ی روشنایی نیستند. </p>
+<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">هدف اصلی </p>
+<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\متن‌لاتین{HDR image rendering‎ }</p>
+<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"> این است که تصویر‌های </p>
+<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"> ‎\متن‌لاتین{HDR‎ }</p>
+<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"> را با استفاده از الگوریتم‌هایی به  گونه ای فشرده سازی کند که تصویر‌هایی که در دستگاه خروجی نمایش داده می شوند، به تصویر واقعی نزدیک تر باشند.</p>
+<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">بخش اصلی این کار عبارت است از نگاشت روشنایی عکس‌های با دامنه‌ی دینامیکی بالا به دامنه‌ی دینامیکی دستگاه خروجی که به این کار </p>
+<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"> ‎\متن‌لاتین{tone mapping‎ }</p>
+<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"> میگویند.</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"> </p>
+<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">همان طور که در شکل زیر مشاهده می کنید، چشم‌اندازهای طبیعی از دامنه‌ی روشنایی بالایی برخوردار هستند که این دامنه شامل تصویرهای شب‌هنگام، تا تصاویر مناظر طبیعی در روز می شود. برای این که بتوانیم تصویر خوبی از این مناظر ارائه دهیم از عکاسی ‎$HDR$‎ استفاده می کنیم.</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"> </p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"> ‎\begin{figure}[!htb]‎</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"> ‎	\minipage{1\textwidth}‎</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"> ‎	\includegraphics[width=\linewidth]{images/luminancerange}‎</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"> 	\caption{نمونه‌ای از دامنه‌های روشنایی متفاوت}\label{fig:logtonemap}</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"> ‎	\endminipage\hfill‎</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"> ‎\end{figure}‎</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"> </p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
+<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"> در این پروژه سعی شده‌است دو  روش  مهم و نسبتا پیچیده برای ارائه‌ی تصویر با دامنه‌ی دینامیکی بالا پیاده‌سازی و مقایسه شوند.</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"> </p>
+<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"> در بخش اول، کلیات این علم و تعریف‌های موجود بررسی می‌شوند. در بخش دوم، تعدادی از الگوریتم‌های پیشین، پیچیدگی و نتایج آنها به اختصار مورد بررسی قرار می گیرند. دربخش سوم، دو روش  مورد نظر در این پروژه توضیح داده می‌شوند، روش پیاده‌سازی آنها شرح داده‌شده، ونتایج بررسی می شوند.</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"> </p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"> ‎\section{‎  نگاشت سراسری و نگاشت محلی}</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"> </p>
+<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">نگاشت های سراسری، شامل نگاشت‌هایی است که با توجه به متغیرهای سراسری عکس، مانند میانگین روشنایی انجام می‌شوند. در واقع پس از محاسبه‌ی متغیرهای مطلوب از یک عکس خاص، یک تابع مشخص روی تمام پیکسل‌های عکس اعمال می‌شود. این نوع نگاشت بسیار سریع است. چون معمولا محاسبات پیچیده‌ای ندارند و همچنین می‌توانند با استفاده از</p>
+<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"> ‎\متن‌لاتین{look up table‎  }</p>
+<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">ها انجام شوند.</p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
+<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">مشکل این نوع نگاشت این است که به دلیل کم کردن تضاد روشنایی باعث از بین رفتن جزئیات یا تغییر رنگ ها می‌شود.</p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
+<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">نگاشت‌های محلی، شامل نگاشت هایی است که عملکرد آن روی هر پیکسل، با توجه به متغیرهای احاطه گر آن، متفاوت است.به زبان دیگر پارامترهای تابع، در هر قسمت از تصویر، با توجه به ویژگی‌های آن قسمت از تصویر متفاوت است.</p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
+<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">این نوع نگاشت‌ها معمولا دارای محاسبات پیچیده تری هستند، ممکن است هاله‌های مصنوعی ایجاد کنند، و تصویر را کمی تصنعی کنند. اما اگر به درستی اعمال شوند، می‌توانند بهترین تصویر ممکن را ارائه دهند.زیرا سیتستم بینایی انسان به تضادهای روشنایی محلی بیشتر حساس است تا تضادهای سراسری.</p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">\section{تعریف روشنایی در تصاویر رنگی}</p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
+<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">روشنایی فضا، روشنایی فیزیکی است و در واقع به معنی شدت انرژی نور است که بر حسب ‎$cd/m^{2}$‎ قابل اندازه‌گیری است. در تصویر، این روشنایی به صورت مقدار ‎$L$‎ در فضای  ‎$LUV$‎ یا به صورت یک ترکیب خطی از کانال‌های رنگ سبز و قرمز و آبی در فضای ‎$RGB$‎ تعریف می‌شود.</p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
+<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">ضرایب این ترکیب خطی به روش‌های گوناگونی قابل تعریف است.  و ممکن است طبق دو تعریف متفاوت، ترتیب روشنایی یک محموعه  تصویر تغییر کند. تفاوت های جزئی  اهمیتی ندارند، چون تعریف دقیق و صحیحی از روشنایی وجود ندارد و این تعریف ها هر چقدر به ذهنیت ما از روشنایی نزدیک تر باشند، بهتر  هستند.</p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
+<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">یکی از تعریف‌های متداول به صورت زیر است.</p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\begin{equation}‎</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎luminance = 0.27 red‎ + ‎0.67 green‎ + ‎0.06 blue‎</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\end{equation}</p></body></html>
