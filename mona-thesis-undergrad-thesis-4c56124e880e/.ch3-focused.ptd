@@ -1,17 +1,26 @@
-<!1,2015121912:10:04>
+<!1,2015123012:33:57>
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
 <html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
 p, li { white-space: pre-wrap; }
 </style></head><body>
 <p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\‎فصل{مفاهیم اولیه}</p>
 <p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
-<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">نمونه برداری گسسته گوسی </p>
-<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">در نمونه بردار گسسته گوسی می خواهیم از میان اعداد صحیح  ‎x &lt;zq‎ با احتمال(فرمول) نمونه برداری کنیم - ‎(سیگما)‎ انحراف معیار است. روش هایی که برای نمونه برداری گوسی مرسوم هستند عملیات زیادی دارند.  رمزنگاری مشبکه مبنا به  این نمونه برداری بسیار نیاز دارد بنابراین بهینه نبودن این نمونه برداری موجب می شود تا رمزنگاری مشکبه مبنا نیز بهینه نباشد . </p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">\section{توزیع گسسته گوسی }</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">.....</p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">\section{نمونه برداری گسسته گوسی  }</p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
+<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">در نمونه بردار گسسته گوسی می خواهیم از میان اعداد صحیح  ‎x &lt;zq‎ با احتمال(فرمول) نمونه برداری کنیم - ‎(سیگما)‎ انحراف معیار است. روش هایی که برای نمونه برداری گوسی مرسوم هستند عملیات زیادی دارند.  رمزنگاری مشبکه مبنا به  این نمونه برداری بسیار نیاز دارد بنابراین بهینه نبودن این نمونه برداری موجب می شود تا رمزنگاری مشکبه مبنا نیز بهینه نباشد . ‎‎</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎‎</p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">\section{نمونه‌برداری گسسته گوسی در رمزنگاری مشبکه مبنا  }</p>
+<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎در رمزنگاری مشبکه مبنا در بسیاری از مواقع نیاز است تا از توزیع  گوسی به طور گسسته از دامنه اعداد صحیح نمونه‌برداری کنیم. (510)</p>
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎‎</p>
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎</p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎</p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎</p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\section{موانع موجود در نمونه‌برداری گسسته  در رمزنگاری مشبکه مبنا }</p>
+<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎‎راه‌های موجود برای نمونه‌برداری گسسته از توزیع گوسی با دو مانع بزرگ روبه‌رو هستند. تعدادی از آن‌ها به میزان زیادی از حافظه نیاز دارند و تعدادی از آنها بسیار کند هستند . باید در یک مصالحه بین زمان و حافظه روشی را انتخاب کرد که برای استفاده در رمزنگاری مشبکه مبنا بهینه‌ترین روش باشد. </p>
+<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">در رمز نگاری مشبکه مبنا نیاز داریم تا دقت را ...... (مقاله برقانی )</p>
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎</p>
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">\section{نگاشتی بر اساس سیستم بینایی انسان}</p>
 <p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">سیستم بینایی انسان، برای دیدن جزئیات در نورهای مختلف، و ساخت یک تصویر درست در ذهن</p>

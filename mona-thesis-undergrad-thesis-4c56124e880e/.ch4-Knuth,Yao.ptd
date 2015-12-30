@@ -1,10 +1,10 @@
-<!1,2015122811:03:06>
+<!1,2015123000:14:48>
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
 <html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
 p, li { white-space: pre-wrap; }
 </style></head><body>
 <p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\‎فصل{روش ‎‎$‎Knuth-Yao‎$‎}</p>
-<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
+<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">در این قسمت می‌خواهیم راهی برای نمونه‌برداری با دقت بالا و انحراف معیار بالا بر اساس الگوریتم ‎‎$‎Knuth-Yao‎$‎ ارایه بدهیم. از‎‎‎‎ ویژگی‎‎‌های ‎‎الگوریتم ‎‎$‎Knuth-Yao‎$‎ این است که به تعداد کمی بیت تصادفی احتیاج دارد و برای نمونه‌برداری با دقت بالا مناسب است.  </p>
 <p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">در این الگوریتم از یک درخت به نام درخت تولید اعداد گسسته  ‎$‎discrete distribution generating (DDG)‎$‎ ‎‎‎  استفاده می کنیم . ‎‎</p>
 <p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎اگر  بخواهیم تعدادی اعداد ‎‎ تصادفی داشته باشیم با بردار احتما‎ل ‎‎$‎p_{1}, p_{2‎}‎,‎ ‎...‎$‎‎ -که می تواند محدود یا نامحدود باشد- داشته باشیم‏، می توان هر کدام از این احتمالات را به صورت رشته دودویی نوشت و از روی آن یک درخت ساخت که بیت‌های این رشته را نمایش می دهد. این درخت دو نوع گره میانی و انتهایی دارد . با حرکت تصادفی بر روی این درخت می توان عدد تصادفی را انتخاب کرد. </p>
 <p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"> گره های میانی : این گره‌ها دو فرزند دارند . هنگامی که بیت جاری صفر باشد به فرزند سمت چپ می رویم و هنگامی که بیت جاری یک باشد به فرزند دوم می‌رویم. </p>
