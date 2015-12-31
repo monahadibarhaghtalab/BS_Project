@@ -1,4 +1,4 @@
-<!1,2015123012:33:57>
+<!1,2015123118:57:49>
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
 <html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
 p, li { white-space: pre-wrap; }
@@ -8,14 +8,14 @@ p, li { white-space: pre-wrap; }
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">\section{توزیع گسسته گوسی }</p>
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">.....</p>
 <p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">\section{نمونه برداری گسسته گوسی  }</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">\section{نمونه‌برداری گسسته گوسی  }</p>
 <p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
-<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
-<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">در نمونه بردار گسسته گوسی می خواهیم از میان اعداد صحیح  ‎x &lt;zq‎ با احتمال(فرمول) نمونه برداری کنیم - ‎(سیگما)‎ انحراف معیار است. روش هایی که برای نمونه برداری گوسی مرسوم هستند عملیات زیادی دارند.  رمزنگاری مشبکه مبنا به  این نمونه برداری بسیار نیاز دارد بنابراین بهینه نبودن این نمونه برداری موجب می شود تا رمزنگاری مشکبه مبنا نیز بهینه نباشد . ‎‎</p>
+<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">در نمونه‌بردار‎‎ُی گسسته گوسی می‌خواهیم از میان اعداد صحیح  ‎‎$‎x ‎\in ‎\mathbb{‎Z‎}‎‎‎$‎‎ با احتما‎ل‎‎$‎‎‎exp(-x^{2}/2‎\sigma‎^_{2}‎$‎ نمونه‌برداری کنیم در این فرمول  ‎$‎\sigma‎‎$‎‎‎ انحراف معیار است. روش‎‌هایی که برای نمونه برداری گوسی موجود هستند معمولا محاسبات زیادی دارند. (514)‎‎</p>
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎‎</p>
 <p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">\section{نمونه‌برداری گسسته گوسی در رمزنگاری مشبکه مبنا  }</p>
 <p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎در رمزنگاری مشبکه مبنا در بسیاری از مواقع نیاز است تا از توزیع  گوسی به طور گسسته از دامنه اعداد صحیح نمونه‌برداری کنیم. (510)</p>
+<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"> رمزنگاری مشبکه مبنا به نمونه‌برداری گوسی نیاز بسیاری دارد. بنابراین پیاده‌سازی مناسب این نمونه‌برداری‏، یک امر حیاتی و چالش برانگیز برای دستگاه‌های با محدودیت است .</p>
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎‎</p>
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎</p>
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\section{موانع موجود در نمونه‌برداری گسسته  در رمزنگاری مشبکه مبنا }</p>
