@@ -1,4 +1,4 @@
-<!1,2015123119:43:31>
+<!1,2016010111:55:19>
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
 <html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
 p, li { white-space: pre-wrap; }
@@ -11,7 +11,7 @@ p, li { white-space: pre-wrap; }
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"> 	\caption{توزیع مناسب}\label{fig:adabpted ‎distrbution}‎</p>
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"> ‎	\endminipage\hfill‎</p>
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"> ‎\end{figure}‎</p>
-<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"> یکی از روش‌های سریع برای نمونه‌برداری روش نمونه‌برداری برنولی است.</p>
+<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"> یکی از روش‌های سریع برای نمونه‌برداری روش نمونه‌برداری برنولی است. این روش توسط ‎‎$‎Ducas et al‎$‎ معرفی شده است. در این روش اندازه جدول جستجو به طور قابل توجهی کوچک می شود اما برخی از نمونه‌ها با توزیع برنولی رد می‌شوند. روش ردی یک فزونی زمان محاسبات را بر الگوریتم تحمیل می‌کند و همچنین کسری از بیت‎‌های تصادفی تولید شده استفاده نمی‌شوند و دور ریخته می‌شوند. زمان اجرا در 514 ...........................</p>
 <p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">در روش برنولی نیاز به نگه داشتن جدول کوچکتر برای اعداد از پیش محاسبه شده داریم ( که سایز آن متناسب لگاریتم ‎$\sigma$‎  می باشد)</p>
 <p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"> روش برنولی در حقیقت از روش نمونه‌برداری ردی ‎$(rejection sampling)$‎ الهام گرفته شده‌است. (شکل ... الف) در روش ردی از توزیع یکنواخت بر روی بازه ‎$[c‎ - ‎\tau _{\sigma}‎ , ‎c‎ + ‎\tau _{\sigma}]$‎ استفاده می‌شود. مشکل اصلی روش ردی این است که نیازمند محاسبه تابع نمایی با دقت بالا است. در روش برنولی سعی شده است از محاسبه صریح تابع ‎$exp$‎ جلوگیری شود.</p>
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"> </p>

@@ -1,4 +1,4 @@
-<!1,2015123118:57:49>
+<!1,2016010112:16:24>
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
 <html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
 p, li { white-space: pre-wrap; }
@@ -15,14 +15,31 @@ p, li { white-space: pre-wrap; }
 <p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">\section{نمونه‌برداری گسسته گوسی در رمزنگاری مشبکه مبنا  }</p>
 <p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎در رمزنگاری مشبکه مبنا در بسیاری از مواقع نیاز است تا از توزیع  گوسی به طور گسسته از دامنه اعداد صحیح نمونه‌برداری کنیم. (510)</p>
-<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"> رمزنگاری مشبکه مبنا به نمونه‌برداری گوسی نیاز بسیاری دارد. بنابراین پیاده‌سازی مناسب این نمونه‌برداری‏، یک امر حیاتی و چالش برانگیز برای دستگاه‌های با محدودیت است .</p>
+<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"> رمزنگاری مشبکه مبنا به نمونه‌برداری گوسی نیاز بسیاری دارد. بنابراین پیاده‌سازی مناسب این نمونه‌برداری‏، یک امر حیاتی و چالش برانگیز برای دستگاه‌های با محدودیت است . در رمزنگاری مشبکه مبنا برای تولید کلید عمومی معمولا به نمونه برداری از توزیع گوسی نیاز دارد . .......</p>
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎‎</p>
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎</p>
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\section{موانع موجود در نمونه‌برداری گسسته  در رمزنگاری مشبکه مبنا }</p>
 <p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎‎راه‌های موجود برای نمونه‌برداری گسسته از توزیع گوسی با دو مانع بزرگ روبه‌رو هستند. تعدادی از آن‌ها به میزان زیادی از حافظه نیاز دارند و تعدادی از آنها بسیار کند هستند . باید در یک مصالحه بین زمان و حافظه روشی را انتخاب کرد که برای استفاده در رمزنگاری مشبکه مبنا بهینه‌ترین روش باشد. </p>
 <p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">در رمز نگاری مشبکه مبنا نیاز داریم تا دقت را ...... (مقاله برقانی )</p>
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎</p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">\section{نگاشتی بر اساس سیستم بینایی انسان}</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">\section{روش‌های مورد استفاده در نمونه‌برداری گسسته گوسی}</p>
+<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">یکی از روش‌هایی که سرعت بالایی دارد روش ‎‎جدول‎‎‎ جستجوی تجمعی </p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">\lr{تجمعی }\footnote{\lr{‎cumulative ‎lookup table‎‎}}‎‎</p>
+<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎ است . اندازه حافظه مورد نیاز این روش برای انحراف معیارهای بزرگ ‏، زیاد می‌باشد. راه سریع دیگر‎‎ ‏، که از نظر سرعت بعد از جدول تجمعی قرار می گیرد‏، روش نمونه‌برداری برنولی </p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">\lr{برنولی }\footnote{\lr{‎Bernoulli sampler‎‎‎}}</p>
+<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">است. ‎در‎ این روش با وجود آنکه به حافظه کمتری نسبت به روش تجمعی اما تعدادی از نمونه‌ها دور ریخته می شوند و حجم عملیاتی بالاتری دارند.</p>
+<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">تعدادی الگوریتم دیگر مانند نمونه‌برداری ردی‏</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">\lr{ردی }\footnote{\lr{‎rejection sampling‎}}‎‎</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎‏،‎‎$‎Ziggurate, Knuth-Yao‎$‎‏</p>
+<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">الگوریتم هایی هستند که نشان داده‎‎‌شده‌است که کارآیی کمتری نسبت به روشهای گفته شده‌دارد.(514)</p>
+<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">در این مقاله روش دیگری معرفی می شود که از نظر حافظه در رده جستجوی تجمعی است اما سرعت بالاتری نسبت به آن دارد. </p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
 <p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">سیستم بینایی انسان، برای دیدن جزئیات در نورهای مختلف، و ساخت یک تصویر درست در ذهن</p>
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">\lr{ذهن}\footnote{\lr{percept}}</p>
 <p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">، به روش های مختلفی خود را سازگار می کند.</p>

@@ -1,9 +1,14 @@
-<!1,2015122416:51:52>
+<!1,2016010112:32:23>
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
 <html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
 p, li { white-space: pre-wrap; }
 </style></head><body>
 <p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\‎فصل{‎روش آلیاس‎}</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">\lr{آلیاس}\footnote{\lr{‎alias‎}‎‎</p>
+<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">این روش ، یک روش برای تولید کردن یک عدد تصادفی‎$‎‎‎x‎$‎ با داشتن یک بردار احتمال‎$‎ p_{0}, p_{1}, ..., p_{k}‎$ ‎‎ می‌باشد   . در این روش به یک جدول با اندازه‎‎$‎ O(K‎‎)‎$‎  نیاز داریم‎.‎  زمان مورد نیاز ‎‎این روش ‎‎ بعد از  انجام پیش محاسبات ‎‎$‎ O(1)‎$‎ می باشد.‎‎</p>
+<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎ این روش بر تئوری زیر استوار است :</p>
+<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">هر بردار احتمال p_{0}, p_{1} , ..., p_{k -1}  را می توان به صورت مجموعه ای از زوج مرتب ها نمایش داد . </p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
 <p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
 <p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">در زیر چند تصویر که با استفاده از روش‌های مختلف بحث شده در این پروژه ساخته شده اند را مشاهد می‌کنید.</p>
 <p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
