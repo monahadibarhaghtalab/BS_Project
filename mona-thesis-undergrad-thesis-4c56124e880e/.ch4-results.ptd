@@ -1,4 +1,4 @@
-<!1,2016010216:25:41>
+<!1,2016010218:36:23>
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
 <html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
 p, li { white-space: pre-wrap; }
@@ -11,71 +11,33 @@ p, li { white-space: pre-wrap; }
 <p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">اثبات:</p>
 <p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">ما باید نشان دهیم که ‎‎$‎K‎$‎  زوج به صورت ‎‎$‎(i_{0}, j_{0}),...,(i_{k-1},j_{k-1})‎$  و ‎‎$‎K‎$‎‎ احتمال ‎‎$‎q_{0},...,q_{k-1}‎$‎ وجود دارد به طوری که:</p>
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\begin{equation}‎</p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎p_{i} = ‎‎‎‎\frac{1}{k}‎\Sigma‎_{l =‎ ‎0} ‎^{K-1}(q_{l}I_{[i_‎‎‎{l} =‎i]}+‎(1-q_{l})I_{[j_‎‎‎{l} =‎i]}‎</p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎‎</p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎‎‎</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎p_{i} = ‎‎‎‎\frac{1}{k}‎\Sigma‎_{l =‎ ‎0} ‎^{K-1}(q_{l}I_{[i_‎‎‎{l} =‎i]}+‎(1-q_{l})I_{[j_‎‎‎{l} =‎i]}‎‎‎‎</p>
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\end{equation}‎ </p>
 <p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎رابطه فوق نشان‌می‌دهد که برخی ا‎ز‎‎$‎‎q_{l}‎$‎‎ ها در ساخت‎$‎ ‎p_{i}‎$‎‎ تاثیر دارد و برخی از ‎‎$(1-q_{l})‎ ‎$‎  ها در ساخت برخی دیگر تاثیر دارد. ‎‎$‎i_{l}‎$‎‎متغییری  است که نشان می‌دهد کدام ‎‎$‎q{l}‎$‎ به ‎‎$‎p_{i}‎$‎ وابسته است و ‎$‎‎‎j_{l}‎$ ‎نشان‎ می‌دهد کدام ‎‎$‎(1-q_{l}) ‎$‎به‎$‎p_{i}‎$‎ مرتبط می‌باشد و می تواند در ساخت ‎‎$‎p_{i}‎$‎ سهیم باشد. </p>
 <p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"> ‎‎‎ ‎برای اثبات تئوری می‌توان از استقرا روی ‎‎$‎K‎$‎ استفاده کرد. پایه استقرا زمانی که ‎‎$‎K =‎ ‎1‎$‎‎ است به روشنی قابل اثبات است. فرض می کنیم که این رابطه برای ‎‎$‎K‎\&lt;‎ n‎$‎ صادق است. باید نشان دهیم که رابطه برای ‎‎$‎K=n‎$‎ نیز صادق می‌باشد. حداقل ‎‎$‎p_{i}‎$‎ ها را انتخاب می‌کنیم. این مقدار حداکثر برابر ‎‎‎‎$‎‎\frac{1}{K}‎$‎‎ می‌باشد.  ‎‎‎$‎‎‎i_{0}‎$‎را‎ برابر زیروند این احتمال حداقل قرار می‌دهیم و ‎‎$‎q_{0}‎$‎‎ را برابر ‎‎$‎Kp_{i_{0}}‎$‎ قرار می‌دهیم. سپس ‎‎$‎j_{0} ‎$‎ را برابر زیروند بزرگترین ‎‎$‎p_{i}‎$‎ قرار دهیم. بنابراین اولین جفت دوتایی احتمال را تولید کردیم . می دانیک که بزرگترین ‎‎$‎p_{i}‎$‎ از ‎‎$‎‎\frac{1}{‎K‎}‎$‎‎ ام بزرگتر است ‎$‎(‎\frac{1}{‎K‎	}‎\leq ‎p_{j_{0}})‎$‎‎ پس ‎‎$‎‎\frac{(1-q_{0})}{‎K‎}‎\leq ‎p_{j_{0}}‎$‎ . ‎‎‎ سایر ‎‎$‎K-1‎$‎ جفت ار روی باقی بردار احتمال ساخته می‌شود که با توجه به فرض مسئله حکم استقرا ثابت می‌شود.</p>
+<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"> ‎این‎ روش به یک سری پیش‌محاسبات نیازمند است. در این پیش‌محاسبات بردار جدید ‎‎$‎q_{0}, ..., q_{k-1}‎$‎ با استفاده از بردار احتمال ساخته می‌شود. </p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\begin{equation}‎</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎‎‎Greater ‎\leftarrow ‎‎\emptyset ‎, Smaller‎\leftarrow‎ ‎\emptyset‎ (Greater and Smaller are sets of integers.)</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">FOR ‎L ‎:= ‎0 TO K-1 DO</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">q_{l}‎\leftarrow‎  Kp_{l}</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">IF q_{l} ‎\&lt; ‎1</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">THEN Smaller ‎\leftarrow‎ Smaller + {l}.</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">ELSE Greater‎\leftarrow‎ Greater + {l}.</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">WHILE NOT EMPTY ( Smaller) DO</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">Choose ‎k\in‎ Greater , ‎l ‎\in‎ Smaller ‎.‎</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">Set j_{l}‎\leftarrow ‎k .‎‎</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">q_{k}‎\leftarrow ‎q_{k} -‎ ‎(1- q_{l}).‎</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">IF q_{k} ‎‎\&lt; ‎‎1 THEN Greater ‎\leftarrow‎ Greater - {k }, Smaller‎\leftarrow‎  Smaller +{k }.</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">Smaller ‎\leftarrow‎ Smaller -{‎l‎ }‎.‎</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">\end{equation}‎ </p>
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"> </p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"> </p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">  </p>
-<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
-<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"> زمان مورد نیاز ‎‎این روش ‎‎ بعد از  انجام پیش محاسبات ‎‎$‎ O(1)‎$‎ می باشد.</p>
-<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
-<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">در زیر چند تصویر که با استفاده از روش‌های مختلف بحث شده در این پروژه ساخته شده اند را مشاهد می‌کنید.</p>
-<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">  </p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">  ‎\begin{figure}[!htb]‎</p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">  ‎	\minipage{0.48\textwidth}‎</p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">  ‎	\includegraphics[width=\linewidth]{images/linearhdr1}‎</p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">  ‎	\caption{linear}\label{fig:logtonemap}‎</p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">  ‎	\endminipage\hfill‎</p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">  ‎	\minipage{0.48\textwidth}‎</p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">  ‎	\includegraphics[width=\linewidth]{images/loghdr1}‎</p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">  ‎	\caption{logarithmic}\label{fig:lineartonemap}‎</p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">  ‎	\endminipage\hfill‎</p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">  ‎	% 	\centerline{\includegraphics{images/cannyexample2}}‎</p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">   ‎\end{figure}‎</p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">      </p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">  ‎\begin{figure}[!htb]‎</p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">    ‎\minipage{1\textwidth}‎</p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">      ‎	\includegraphics[width=\linewidth]{images/reinhardhdr1}‎</p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">      ‎	\caption{rainhard}\label{fig:logtonemap}‎</p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">    ‎\endminipage\hfill‎</p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">      ‎	% 	\centerline{\includegraphics{images/cannyexample2}}‎</p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">   ‎\end{figure}‎</p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">      </p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">        </p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">    ‎\begin{figure}[!htb]‎</p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">     ‎\minipage{1\textwidth}‎</p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">        ‎	\includegraphics[width=\linewidth]{images/retinex3}‎</p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">        ‎	\caption{retinex}\label{fig:logtonemap}‎</p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">      ‎\endminipage\hfill‎</p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">        ‎	% 	\centerline{\includegraphics{images/cannyexample2}}‎</p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">    ‎\end{figure}‎</p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">        </p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">        </p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">      ‎\begin{figure}[!htb]‎</p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">      ‎	\minipage{0.48\textwidth}‎</p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">      ‎	\includegraphics[width=\linewidth]{images/linearhdr3}‎</p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">      ‎	\caption{linear}\label{fig:logtonemap}‎</p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">      ‎	\endminipage\hfill‎</p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">      ‎	\minipage{0.48\textwidth}‎</p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">      ‎	\includegraphics[width=\linewidth]{images/loghdr3}‎</p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">      ‎	\caption{logarithmic}\label{fig:lineartonemap}‎</p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">      ‎	\endminipage\hfill‎</p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">      ‎	% 	\centerline{\includegraphics{images/cannyexample2}}‎</p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">      ‎\end{figure}‎</p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">      </p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">      ‎\begin{figure}[!htb]‎</p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">      ‎	\minipage{1\textwidth}‎</p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">      ‎	\includegraphics[width=\linewidth]{images/rainhardhdr3}‎</p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">      ‎	\caption{rainhard }\label{fig:logtonemap}‎</p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">      ‎	\endminipage\hfill‎</p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">      ‎	% 	\centerline{\includegraphics{images/cannyexample2}}‎</p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">      ‎\end{figure}‎</p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">      </p>
+<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">بعد از ساخت جدول موردنیاز الگوریتم نمونه‌برداری را انجام می‌دهیم.‎‎ یک عدد صحیح به طور یکنواخت از بازه ‎‎$‎[0, K-1]‎$‎ انتخاب می‌کنیم. متغییر تصادفی ‎‎$‎V‎$‎ را از بازه ‎‎$‎[0,1]‎$‎ به‌طور یکنواخت انتخاب می‌کنیم.  </p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\begin{equation}‎</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">IF V‎\leq ‎q_{‎‎x}</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">THEN RETURN X</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">ELSE RETURN ‎j_{‎x}‎</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">\end{equation}‎</p>
+<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"> زمان مورد نیاز‎ ‎الگوریتم‎ بالا ‎‎از مرتبه زمانی ‎‎$‎ O(1)‎$‎ می باشد.</p>
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">      </p>
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">      ‎\begin{figure}[!htb]‎</p>
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">      ‎	\minipage{1\textwidth}‎</p>
