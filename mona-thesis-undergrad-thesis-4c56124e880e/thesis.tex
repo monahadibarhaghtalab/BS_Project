@@ -7,28 +7,32 @@
 \includeonly{
 	blank-page,
 	logo-pe,
+	offer,
 	thanks,
 	abstract-pe,
 	ch1-Introduction,
 	ch2-primitive,
-	ch4-Knuth,Yao,
+	ch4-Knuth-Yao,
 	ch4-rejection,
 	ch4-Zigurate,
 	ch4-Bernoulli,
 	ch4-Cumulative,
 	ch4-alias,
+	ch5-result,
 	appendix,
 	abstract-en,
 	logo-en
 }
 
-\title{ }
+\title{ روش‌های نمونه‌برداری برداری از توزیع گسسته گوسی استفاده‌شده در رمزنگاری مشبکه مبنا }
 \author{منا هادی بر حق طلب}
 \captionsetup[lstlisting]{font={small,tt}}
 
 \begin{document}
+\nocite{*}
 \include{blank-page}
 \include{logo-pe}
+\include{offer}
 \include{thanks}
 
 \include{abstract-pe}
@@ -37,22 +41,21 @@
 \listoffigures
 
 %==========================CHAPTERS=======================
-\include{ch1-introduction}
+\include{ch1-Introduction}
 \include{ch2-primitive}
-\include{ch4-Knuth,Yao}
+\include{ch4-Knuth-Yao}
 \include{ch4-rejection}
 \include{ch4-Zigurate}
 \include{ch4-Bernoulli}
 \include{ch4-Cumulative}
 \include{ch4-alias}
+\include{ch5-result}
 %=========================================================
-\include{appendix}
 
 \clearpage
-\bibliographystyle{unsrt}
-\bibliography{references}
 
-\include{abstract-en}
+\bibliography{references}
+\bibliographystyle{acm-fa}
 \include{logo-en}
 \end{document}
 

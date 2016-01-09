@@ -1,4 +1,4 @@
-<!1,2016010418:28:32>
+<!1,2016010420:29:58>
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
 <html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style type="text/css">
 p, li { white-space: pre-wrap; }
@@ -36,17 +36,25 @@ p, li { white-space: pre-wrap; }
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\begin{equation}‎</p>
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">y_{m} := 0, 		x_{0} := 0,		x_{m} := t_{‎\sigma‎},</p>
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎\end{equation}‎ ‎</p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"> </p>
-<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
-<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">مقایسه با بقیه روشها! (510)</p>
-<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">      ‎\begin{figure}[!htb]‎</p>
+<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"> و‎‎‎ سایر قسمت‌بندی ها را از &quot; راست به چپ از طریق زیر پیدا می‌کنیم.</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">     ‎\begin{figure}[!htb]‎</p>
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">      ‎	\minipage{1\textwidth}‎</p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">      ‎	\includegraphics[width=\linewidth]{images/retinex1}‎</p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">      ‎	\caption{retinex}\label{fig:logtonemap}‎</p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">      ‎	\endminipage\hfill‎</p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">      ‎	% 	\centerline{\includegraphics{images/cannyexample2}}‎</p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">      ‎\end{figure}‎</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">      ‎	\includegraphics[width=\linewidth]{images/Ziggurate-‎make‎}‎</p>
 <p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">  </p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">      ‎	\endminipage\hfill‎</p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">      ‎\end{figure}‎‎</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">      ‎</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">   \section{‎‎بهبود روش ‎}‎   ‎</p>
+<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">با توجه به اینکه بیشترین وقتی که در الگوریتم زیگورات صرف می‌شود ‏، مربوط به محاسبه ‎‎$‎‎\rho ‎_{‎\sigma‎}‎$‎‎ می باشد بنابراین برای بهبود باید تا آنجایی که ممکن است از محاسبه آن اجتناب شود. ‎‎$‎‎\rho ‎_{‎\sigma‎}‎$‎‎ زمانی نیاز است که ‎‎$‎(x,y‎‎)‎$‎‎ در قسمت راست مستطیل ‎‎$‎R^{r} _{i}‎$‎ واقع شده‌باشد. اما در این شرایط با توجه به این‌که ‎‎$‎\rho _{‎\sigma‎}‎$‎  که درون ‎‎$‎R^{r} _{i}‎$‎چه شکلی دارد ‏، می توانیم از حساب کردن ‎‎$‎‎\rho ‎_{‎\sigma‎}‎$‎‎ در نصف مواقع جلوگیری کرد و راحتتر ‎‎$‎x‎$‎ را قبول یا رد کرد.</p>
+<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">‎‎‎ما ‎‎$‎R^{r} _{i}‎$‎ را با وصل کردن بالا چپ به پایین راست با خط راست ‎‎$‎s‎$‎ قسمت می‌کنیم. ‎$‎‎‎‎\rho ‎_{‎\sigma‎}‎$  ‎‎ ‎دارای‎ نقطه عطف است که در قسمت مثبت نمودار‏، قبل از نقطه عطف تقعر نمودار به سمت پایین است و بعد از نقطه عطف تقعر نمودار به سمت بالا است.   ‎‎$‎x‎$‎‎ که انتخاب می‌شود اگر کمتر از نقطه عطف باشد همه نقاط ‎‎$‎(x,y)‎$‎ در مستطیل ‎‎$‎R^{r} _{i}‎$‎‎که زیر خط ‎‎$‎s‎$‎ قرار می‌گیرند ‏، پذیرفته می‌شوند و ‎$‎x‎$‎ به عنوان خروجی برگردانده می‌شود. در جایی که تقعر نمودار به سمت بالا است (بعد از نقطه عطف )همه نقاط بالای ‎‎$‎s‎$‎ به سرعت رد می‌شود. در سایر شرایط ‎‎$‎\rho _{‎\sigma‎}‎‎$ ‎باید‎ محاسبه شود و شرایط پذیرفتن چک شود. برای روش زیگورات در حالت گسسته باید به جای ‎‎$‎x_{i}‎$‎ از ‎‎$‎‎\lfloor ‎x_{i}‎\rfloor ‎‎$‎ استفاده شود. این روش را با ‎‎$‎ZiggurateO‎$‎  نشان می دهیم.‎$‎[4]‎$‎‎‎</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">    ‎\begin{figure}[!htb]‎</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">      ‎	\minipage{1\textwidth}‎</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">      ‎	\includegraphics[width=\linewidth]{images/Ziggurate-‎concave‎}‎</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">      ‎	\caption{‎الگوریتم  بهبود یافته زیگورات برای نمونه‌برداری گسسته‎‎}\label{fig:logtonemap}‎</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">      ‎	\endminipage\hfill‎</p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">      ‎\end{figure}‎</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">      </p>
+<p dir='rtl' style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;">مقایسه با بقیه روشها! (510)</p>
 <p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; -qt-user-state:0;"></p></body></html>
