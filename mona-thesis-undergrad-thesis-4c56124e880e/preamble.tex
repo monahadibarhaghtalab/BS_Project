@@ -19,6 +19,13 @@
 \usepackage[export]{adjustbox}
 
 %----------------------------------------------------------------
+\makeatletter
+\newcommand{\makeCondensedChap}{%
+	\patchcmd{\@makeschapterhead}{\vspace*{50\p@}}{}{}{}%
+	\patchcmd{\@makeschapterhead}{\vskip 40\p@}{}{}{}%
+}
+
+\makeatother
 
 %----------------------------------------------------------------
 \usepackage[localise=on]{xepersian}
